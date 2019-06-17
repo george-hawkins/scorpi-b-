@@ -1,21 +1,19 @@
 Review: Graspinghand gooseneck camera mount
 ===========================================
 
-This camera mount is very simply so there's not much more to say than that I found it to be excellent and I'm surprised this kind of camera mount isn't more popular.
-
-This mount is made by Graspinghand, is called the Scorpi B+ and can be found [here](http://graspinghand.bigcartel.com/product/scorpi-b).
+This camera mount is very simple so there's not much more to say than that I found it to be excellent and I'm surprised this kind of mount isn't more popular. This mount is made by Graspinghand, is called the Scorpi B+ and can be found [here](http://graspinghand.bigcartel.com/product/scorpi-b).
 
 ![in action side](in-action-side.jpg)
 
 ![in action front](in-action-front.jpg)
 
-You can easily position you camera module to point exactly where you want as shown above.
+You can easily position your camera module to point exactly where you want, as shown above.
 
 The mount comes nicely packed:
 
 ![in package](in-package.jpg)
 
-There's a bolt and two nylon washers for attaching your camera module. I always like nylon washers - especially so as I've heard stories of people shorting certain camera modules via the mounting holes (nylon washers should minimize this risk).
+There's a bolt and two nylon washers for attaching your camera module. I always like nylon washers - especially as I've heard stories of people shorting certain camera modules via the mounting holes (nylon washers should minimize this risk).
 
 I don't know how the gooseneck is made - I assumed it would just be something like a stiff piece of copper wire, but it's much nicer than that. It's very easy to flex into any position you want and (unlike many cheap gooseneck lamps) it really stays put in the position you choose.
 
@@ -55,4 +53,4 @@ I'm surprised this kind of mount isn't more popular - with most other mounts you
 
 There are various people selling something similar that plugs into the audio jack rather than a USB port - but this has the obvious issue that an audio plug is fairly free to rotate in the audio jack, which isn't what you want (and indeed various reviews I've seen complain about this happening).
 
-The Scorpi B+ is suprisingly well made - sure it's very simple, but it looks like it might be hand made (and well hand made) - at any rate it's a nice change from the low production standards that are common for third-party Pi add-ons.
+The Scorpi B+ is surprisingly well made - sure it's very simple, but it looks like it might be hand made (and well hand made). At any rate, it's a nice change from the low production standards that are common for third-party Pi add-ons.
