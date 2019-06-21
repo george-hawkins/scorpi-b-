@@ -13,7 +13,7 @@ The mount comes nicely packed:
 
 ![in package](in-package.jpg)
 
-There's a bolt and two nylon washers for attaching your camera module. I always like nylon washers - especially as I've heard stories of people shorting certain camera modules via the mounting holes (nylon washers should minimize this risk).
+There's a nut and two nylon washers for attaching your camera module. I always like nylon washers - especially as I've heard stories of people shorting certain camera modules via the mounting holes (nylon washers should minimize this risk).
 
 I don't know how the gooseneck is made - I assumed it would just be something like a stiff piece of copper wire, but it's much nicer than that. It's very easy to flex into any position you want and (unlike many cheap gooseneck lamps) it really stays put in the position you choose.
 
@@ -41,11 +41,11 @@ Put on the first washer:
 
 ![mount and first washer](mount-and-first-washer.jpg)
 
-And then the camera module followed by the second washer and the bolt:
+And then the camera module followed by the second washer and the nut:
 
 ![mount with camera attached](mount-with-camera-attached.jpg)
 
-Tightening the bolt is much easier if you have a 4mm hex-socket driver (I got mine in a set like this from [UnmannedTech](https://www.unmannedtechshop.co.uk/product/dronebuildr-tool-kit-hex-nut-phillips-flat-screw-driver-set/) or [Banggood](https://www.banggood.com/YZ-015-7pcs-3_04_05_06_0mm-Hexagonal-Screwdriver-Tool-Set-For-RC-Model-p-1182503.html)).
+Tightening the nut is much easier if you have a 4mm hex-socket driver (I got mine in a set like this from [UnmannedTech](https://www.unmannedtechshop.co.uk/product/dronebuildr-tool-kit-hex-nut-phillips-flat-screw-driver-set/) or [Banggood](https://www.banggood.com/YZ-015-7pcs-3_04_05_06_0mm-Hexagonal-Screwdriver-Tool-Set-For-RC-Model-p-1182503.html)).
 
 ![hex socket driver](hex-socket-driver.jpg)
 
